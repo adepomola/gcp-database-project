@@ -241,7 +241,7 @@ Google Cloud also provides secure connection methods through Cloud SQL connector
 
 ### Screenshot 8
 
-![Cloud SQL Connection Details](screenshots/09-cloud-sql-connection-details.png)
+![Cloud SQL Connection Details](screenshots/09-cloud-sql-connection-detils.png)
 
 ---
 
